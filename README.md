@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglasfilipe
 - 👀 I’m interested in DevSecOps, JavaScript, SharePoint, Azure, AWS, CosmosDB and others.
-- 🌱 I’m currently learning Power Bi and data analisys.
+- 🌱 I’m currently working with Power Bi, SharePoint Online and Onprem, SQL Server and data analisys.
 - 💞️ I’m looking to collaborate on sharing knowledge.
 - 📫 How to reach me mail to douglasfilipe@gmail.com
 
