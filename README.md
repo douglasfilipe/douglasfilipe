@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @douglasfilipe
-- 👀 I’m interested in DevSecOps, JavaScript, SharePoint, Azure, AWS and others.
+- 👀 I’m interested in Power Platform, JavaScript, SharePoint, SQL Server, Azure and others.
 - 🌱 I’m currently working with Power Bi, SharePoint Online and Onprem, SQL Server and data analisys.
 
 [![Blog](https://img.shields.io/website?&style=for-the-badge&url=https://douglasfilipe.wordpress.com/)](https://douglasfilipe.wordpress.com/)
